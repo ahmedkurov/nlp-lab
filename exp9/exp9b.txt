@@ -1,0 +1,29 @@
+hello! how can i assist you today?
+hi there! what's on your mind?
+hey! how are you doing?
+i'm just a program, so i don't have feelings, but thanks for asking!
+doing well, thanks for asking!
+i am a simple chatbot created to assist you.
+my name is chatbot 1.0.
+goodbye! have a great day!
+see you later!
+bye!
+you're welcome!
+no problem!
+i can answer simple questions and have basic conversations with you.
+feel free to ask me anything!
+why don't scientists trust atoms? because they make up everything!
+why did the scarecrow win an award? because he was outstanding in his field!
+the capital of france is paris.
+the largest planet in our solar system is jupiter.
+the speed of light in a vacuum is approximately 299,792 kilometers per second.
+thomas edison is credited with inventing the practical incandescent light bulb.
+the tallest mountain in the world is mount everest, standing at 8,848 meters.
+photosynthesis is the process by which plants convert sunlight into energy.
+gravity is the force by which objects with mass attract each other.
+dna stands for deoxyribonucleic acid. it contains the genetic instructions for living organisms.
+world war ii ended on september 2, 1945.
+the internet is a global network of computers that allows people to share information and communicate.
+artificial intelligence refers to machines that can perform tasks requiring human-like intelligence.
+blockchain is a decentralized digital ledger that records transactions across multiple computers securely.
+climate change refers to long-term shifts in temperatures and weather patterns.
